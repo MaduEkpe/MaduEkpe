@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @MaduEkpe
-- 👀 I’m interested in - Coding/Programmindg. Editing Videos/Photos, Gaming, Sports (NBA, NFL)
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me Email: Madu0495@outlook.com
+👋 Hi, I’m @MaduEkpe
+IT professional and developer in training with 3+ years of enterprise 
+technical support experience. I'm building toward software engineering 
+with a focus on Python, SQL, and backend development.
+
+👀 Technical Skills
+- Languages: Python, SQL, Java, JavaScript, HTML, CSS
+- Scripting: Bash, PowerShell
+- Databases: MySQL, PostgreSQL, SQL Server
+- Tools: Git/GitHub, PowerShell, JIRA, Visual Studio
+  
+ 🌱 What I'm Working On
+- Python backend development
+- SQL and PostgreSQL database design
+- Bash scripting and Linux command line
+- Java (long-term backend stack building toward enterprise SWE)
+- Cloud fundamentals (Microsoft AZ-900 certified)
+  
+ 💞️ Goals
+Transitioning into software engineering and developer support roles. 
+Pre-enrolled in Georgia Tech's OMSCS program.
+  
+📫 How to reach me 
+LinkedIn: https://www.linkedin.com/in/madubuike-ekpecham-65568a199/
+Email: Madu0495@outlook.com
 
 <!---
 MaduEkpe/MaduEkpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
